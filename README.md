@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rémi Duclos @rduclospro 
 - 👀 I’m interested in Front-end development (not only)
-- 🌱 I’m currently learning mobile development JetPack Compose, SwiftUI and web development React, Next
+- 🌱 I’m currently learning mobile development JetPack Compose, SwiftUI, Flutter
 - 📫 How to reach me using LinkedIn => 
 
 <!---
